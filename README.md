@@ -1,2 +1,2 @@
 # MINDBOT
-A website of our hackathon team (MINDBOT) for hackathon event called Frontend Dominator.
+A website of our hackathon team (MINDBOT) for the hackathon event called Frontend Dominator.
